@@ -22,7 +22,7 @@ Complete static website with photos, animations, countdown, map link and calenda
 4. GitHub displays the website URL after publishing. Keep .nojekyll included.
 
 ## Edit
-Open index.html in your editor or Google Antigravity. CSS and JavaScript are embedded in this file. Photos are in assets/. Keep filenames and relative paths intact. The calendar event is reception.ics.
+Open index.html in your editor or Google Antigravity. CSS and JavaScript are embedded in this file. Photos and background music are in assets/. Keep filenames and relative paths intact. The calendar event is reception.ics.
 
 ## Launch checks
 After deployment, test on a phone: invitation opening, photo gallery, map button, calendar download and countdown. No RSVP collection or server is configured. This package has been checked for missing local HTML asset references; a live browser check is still needed.

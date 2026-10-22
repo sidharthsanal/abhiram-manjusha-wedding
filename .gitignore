@@ -3,3 +3,5 @@ Thumbs.db
 .netlify/
 .env
 .env.*
+
+.vercel
