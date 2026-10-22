@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Abhiram and Manjusha//Wedding Reception//EN
+BEGIN:VEVENT
+UID:abhiram-manjusha-20261108@wedding
+DTSTAMP:20261020T090000Z
+DTSTART:20261108T110000Z
+DTEND:20261108T160000Z
+LOCATION:https://maps.app.goo.gl/Gkwm8z358XSU6TXX7
+URL:https://maps.app.goo.gl/Gkwm8z358XSU6TXX7
+SUMMARY:Abhiram & Manjusha — Wedding Reception
+DESCRIPTION:We cordially invite you and your family to celebrate our wedding. Reception location is available via the invitation map link. Reception time: 4:30 PM–9:30 PM IST.
+END:VEVENT
+END:VCALENDAR
